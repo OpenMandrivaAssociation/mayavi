@@ -6,7 +6,6 @@ Release: %mkrel 5
 Source0: http://ovh.dl.sourceforge.net/sourceforge/mayavi/MayaVi-%{version}.tar.bz2
 License: BSD
 Group: Sciences/Other
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 Url: http://mayavi.sourceforge.net
 Requires: tkinter, python-vtk
