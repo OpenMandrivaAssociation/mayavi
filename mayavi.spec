@@ -2,7 +2,7 @@
 Summary: A powerful scientific data visualizer for Python
 Name: mayavi
 Version: 1.5
-Release: %mkrel 8
+Release: %mkrel 9
 Source0: http://ovh.dl.sourceforge.net/sourceforge/mayavi/MayaVi-%{version}.tar.bz2
 License: BSD
 Group: Sciences/Other
