@@ -4,7 +4,7 @@ Version:	1.5
 Release:	11
 License:	BSD
 Group:		Sciences/Other
-Url:		http://mayavi.sourceforge.net
+Url:		https://mayavi.sourceforge.net
 Source0:	http://ovh.dl.sourceforge.net/sourceforge/mayavi/MayaVi-%{version}.tar.bz2
 BuildRequires:	pkgconfig(python)
 Requires:	python-vtk
